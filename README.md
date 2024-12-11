@@ -1,0 +1,7 @@
+- 👋 Hi, I’m ALICIA (asecord-a3)
+- 💼 I work for A3 (Association for Advancing Automation)
+- ⌨️ I am a frontend dev (HTML, CSS, JS -- mainly)
+- 🌱 I’m currently learning Flutter
+- 📫 Reach me via my email asecord@automate.org or via GitHub
+- 😄 Pronouns: She/Her/Hers or Fae/Faem/Faers
+- ⚡ Fun fact: I always wear mismatched socks!
